@@ -1,5 +1,4 @@
 
-![Software Engineer](https://scontent.flhr4-4.fna.fbcdn.net/v/t39.30808-6/451617009_3703980553209064_2098783516663836697_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=wP175tF69RwQ7kNvgHyS3Nk&_nc_ht=scontent.flhr4-4.fna&gid=AlUoGfebUn4GjeeisEpERzL&oh=00_AYBc02AzWpjKkE23skxsSpqvWnC0YDxe_nSqteAn9UKLfw&oe=66B15318)
 
 ### Hi there 👋, I am Mubarak Hussain 
 #### Software Engineer
